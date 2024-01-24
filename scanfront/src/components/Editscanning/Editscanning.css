@@ -1,0 +1,23 @@
+.form-container {
+  max-width: 400px;
+  margin: 20px auto; /* Adjust the margin as needed */
+  padding: 20px;
+  border: 1px solid #4CAF50; /* Green border color */
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-field {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.form-heading {
+  text-align: center;
+  color: #4CAF50; /* Green heading color */
+}
+
+.form-button {
+  background-color: #4CAF50; /* Green button background color */
+  color: white;
+}

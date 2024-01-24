@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+  background-color: #d0f4de; /* Light green background */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #8cc084; /* Green border color */
+}
+
+th {
+  background-color: #2ecc71; /* Green color for header */
+  color: #fff;
+}
+
+td {
+  background-color: #fff;
+}
+
+.editIcon {
+  cursor: pointer;
+  color: #2ecc71; /* Green color for EditIcon */
+}
